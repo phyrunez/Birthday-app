@@ -1,0 +1,71 @@
+.main {
+    background: white;
+    margin: auto 450px auto 450px;
+    border: white;
+    border-radius: 10px;
+    height: 550px !important;
+    font-family: cursive;
+    margin-top: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.main-items {
+    margin-top: 20px;
+}
+
+.main-two {
+    background: white;
+    margin: auto 450px auto 450px;
+    border: white;
+    border-radius: 10px;
+    height: 170px !important;
+    font-family: cursive;
+    margin-top: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.main-items h3 {
+    padding: 20px 0 10px 30px;
+    letter-spacing: 2px;
+}
+
+.main-items button {
+    color: white;
+    background: brown;
+    padding: 10px;
+    margin: 20px 20px 10px 20px;
+    width: 90%;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: cursive;
+    letter-spacing: 2px;
+    border-radius: 10px;
+}
+
+.main-item {
+    display: flex;
+}
+
+.main-item img {
+    display: block;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.main-item_text {
+    padding-left: 10px;
+    padding-bottom: 2px;
+    margin-top: -10px !important;
+}
+
+.main-item_text h2 {
+    font-size: 17px;
+}
+
+.main-item_text p {
+    font-size: 12px;
+    margin-top: -12px;
+}
